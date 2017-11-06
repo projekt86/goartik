@@ -6,7 +6,7 @@
 
 ## Futures
 - Support Artik 520 board (soon all)
-- Automatic detect board model
+- Automatic detection board model
 - GPIO (digital read and write)
 - Support board pin map
 
