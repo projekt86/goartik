@@ -1,11 +1,11 @@
 # Goartik
 
-**Goartik** is Golang library for Samsung Artik Modules.
+**Goartik** is Golang library for Samsung ARTIK Modules.
 
 
 
 ## Futures
-- Support Artik 520 board (soon all)
+- Support ARTIK 520 board (soon all)
 - Automatic detection board model
 - GPIO (digital read and write)
 - Support board pin map
